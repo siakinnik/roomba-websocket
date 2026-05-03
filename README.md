@@ -1,6 +1,6 @@
 # Roomba WebSocket Control
 
-![License](https://img.shields.io/github/license/siakinnik/roomba-websocet)
+![License](https://img.shields.io/github/license/siakinnik/roomba-websocket)
 ![Platform](https://img.shields.io/badge/platform-ESP8266-blue)
 
 Arduino firmware for ESP8266 (NodeMCU v3) to control an iRobot Roomba (tested on e5) via WebSockets. This project uses a hybrid Serial configuration to ensure stable communication and telemetry.
@@ -45,7 +45,7 @@ Install these via the Arduino Library Manager:
 1. Clone the repo:
     
    ```bash
-   git clone [https://github.com/siakinnik/roomba-websocet.git](https://github.com/siakinnik/roomba-websocet.git)
+   git clone [https://github.com/siakinnik/roomba-websocet.git](https://github.com/siakinnik/roomba-websocket.git)
    ```
 
 2. Open the `.ino` file in Arduino IDE
