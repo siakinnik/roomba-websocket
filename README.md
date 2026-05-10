@@ -45,7 +45,7 @@ Install these via the Arduino Library Manager:
 1. Clone the repo:
     
    ```bash
-   git clone [https://github.com/siakinnik/roomba-websocet.git](https://github.com/siakinnik/roomba-websocket.git)
+   git clone https://github.com/siakinnik/roomba-websocket.git
    ```
 
 2. Open the `.ino` file in Arduino IDE
